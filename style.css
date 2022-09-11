@@ -182,8 +182,8 @@ h3{
     background-color: #F5F5DC;
     margin-top: 20px;
     margin-right: 500px;
-    padding: 5px;
-    margin-block-end: 2000px;
+    height: 240px;
+
 }
 .coming-1{
     width: 300px;
@@ -210,4 +210,40 @@ h4{
     
 }
 /* end second section of example work*/
+
+.footer{
+    background-color: #F5F5DC;
+    width: 1440px;
+    height: 100px;
+}
+h6{
+    font-size: 30px;
+    color: #000000;
+    padding-top: 30px;
+    
+}
+
+
+footer li{
+    display: inline-block;
+    color: black;
+    margin-left: 300px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+
+footer li a:hover,
+footer li:hover{
+    color: rgb(0, 187, 255);
+    text-decoration: overline;
+    cursor: pointer;
+}
+
+ li a{
+    color: #000000;
+    text-decoration: none;
+}
+
+
 

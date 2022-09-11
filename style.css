@@ -29,6 +29,7 @@ body {
 
 header {
     background: #F5F5DC;
+    height: 100px;
 }
 
 header::after{
@@ -72,7 +73,7 @@ aside{
 }
 
 .about-me{
-    margin-top: 175px;
+    margin-top: 90px;
     clear: both;
     float: right;
     width: 30%;
@@ -222,7 +223,6 @@ h6{
     padding-top: 30px;
     
 }
-
 
 footer li{
     display: inline-block;

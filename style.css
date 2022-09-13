@@ -3,7 +3,7 @@
 }
 
 body {
-    background: rgb(160, 156, 156);
+    background: black;
     margin: 0%;
     color: white;
 
@@ -245,5 +245,18 @@ footer li:hover{
     text-decoration: none;
 }
 
+@media screen and (max-width: 980px){
+    .about-me {
+        display: block;
+        float: none;
+        width: 100%;
+    }
+    #my-p{
+        padding-top: 100px;
+    }
+    h5{
+        padding-right: 70px;
+    }
 
 
+}
